@@ -1,0 +1,1 @@
+pip install "fastapi[all]" torch torchvision transformers sentence-transformers faiss-cpu langchain langchain-community langchain-google-genai google-generativeai pandas Pillow python-dotenv
