@@ -28,14 +28,22 @@
         "options": {
             "A": "Light, Small bones, prominent joints",
             "B": "Medium bone structure",
-            "C": "Large, broad shoulders , heavy bone structure"
+            "C": "Large, broad shoulders, heavy bone structure"
+        }
+    },
+    {
+        "question": "How prominent are your veins/tendons?",
+        "options": {
+            "A": "Very visible and prominent",
+            "B": "Moderately visible",
+            "C": "Not very visible, covered by flesh"
         }
     },
     {
         "question": "What is your complexion?",
         "options": {
             "A": "Dark-Complexion, tans easily",
-            "B": "Fair-skin sunburns easily",
+            "B": "Fair-skin, sunburns easily",
             "C": "White, pale, tans easily"
         }
     },
@@ -58,7 +66,7 @@
     {
         "question": "What is your hair colour?",
         "options": {
-            "A": "Black/Brown,dull",
+            "A": "Black/Brown, dull",
             "B": "Red, light brown, yellow",
             "C": "Brown"
         }
